@@ -1,0 +1,45 @@
+body {
+    width: 500px;
+    margin: auto;
+}
+#operator_btns {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.operator {
+    width: 25%;
+    height: 2em;
+    font-size: x-large;
+    background-size: cover;
+}
+
+#plus {
+    color: blue;
+    background-image: url("https://www.ukrgate.com/eng/wp-content/uploads/2021/04/A-Fire-at-a-Hospital-Claims-12-Lives-in-India1.jpg");
+}
+
+#minus {
+    color: red;
+    background-image: url("https://www.prominent.ca/media/Applications/app-water-treatment-and-disinfection_Header_1.jpg");
+}
+
+#divide {
+    color: brown;
+    background-image: url("https://iea.imgix.net/b05bbff9-b18c-4b17-8b6f-3a488079f897/shutterstock_1031551243.jpg?auto=compress%2Cformat&fit=min&q=80&rect=1055%2C0%2C3376%2C3375");
+}
+
+#multiply {
+    color: chartreuse;
+    background-image: url("https://images.unsplash.com/photo-1551631749-6abc22717c86?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JvdW5kfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+
+input {
+    width: 100%;
+}
+
+h1 {
+    text-shadow: 3px 2px 4px magenta;
+}
